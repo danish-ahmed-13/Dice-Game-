@@ -53,4 +53,4 @@ for line in range(5):
 
 for die in dice:
     total += die
-    print(f"Your total is {total}")
+print(f"Your total is {total}")
